@@ -1,0 +1,6 @@
+{
+  "name": "DexCaptcha",
+  "description": "Premium Prompt IDE & Marketplace with Admin Control",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["admin_panel", "maintenance_mode"]
+}
